@@ -83,6 +83,10 @@ local.properties
 .mtj.tmp/
 
 # Package Files #
+<<<<<<< HEAD
+=======
+
+>>>>>>> sist
 *.war
 *.ear
 
